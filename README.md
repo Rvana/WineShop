@@ -1,6 +1,13 @@
 # WineShop(In Progress...) 
 A Wine shop project build in Spring boot following microservice architecture.
 
+
+## Functional Requirements
+### Sellers
+* Sellers can add, modify and delete the liquors they want to sell.
+* Website should include a catelog of products 
+* Website should categorize the liquors (wine, rum, wiskey, beer, taquila, gin, vodka).
+
 ## Functional Services
 * Client Service
 * Wine Catalo
