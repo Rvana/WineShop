@@ -10,7 +10,8 @@ A Wine shop project build in Spring boot following microservice architecture.
 
 ## Functional Services
 * Client Service
-* Wine Catalo
+* Wine Catalog
+* Seller Service (building...)
 ## Infrastructure Services
 * Eureka Naming Server
 * Auth Service
